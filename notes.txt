@@ -1,0 +1,5 @@
+1. When you need to pass from a parent to child class component, you do this by using {props}.
+
+2. My simple explanation of what {this.props.children} does is that it is used to display whatever you include between the opening and closing tags when invoking a component.
+
+https://codeburst.io/a-quick-intro-to-reacts-props-children-cb3d2fce4891
